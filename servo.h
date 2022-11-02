@@ -16,11 +16,11 @@
 // The settings below are for the Mega, modify
 // in case you want to use other pins
 #define PORT_1	PORTA
-#define PIN_1	PA0
+#define PIN_1	PA2
 #define DDR_1	DDRA
 
 #define PORT_2	PORTA
-#define PIN_2	PA2
+#define PIN_2	PA0
 #define DDR_2	DDRA
 
 void init_servo(void);
